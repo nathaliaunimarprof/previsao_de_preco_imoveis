@@ -24,6 +24,10 @@ Este projeto oferece uma **interface web elegante e responsiva** construída com
 ## 🎯 Objetivo
 Fornecer estimativas precisas e rápidas de preços imobiliários para auxiliar compradores, vendedores e investidores em suas decisões.
 
+## 📱 Execução do projeto no Streamlit
+
+Para executar a aplicação localmente no **Streamlit**, siga as instruções detalhadas no README específico de configuração e execução do app. Acesse o documento: [README do App Streamlit](./README_Etapas_Streamlit.md).
+
 ## 🚀 Como Usar
 
 ### Pré-requisitos
