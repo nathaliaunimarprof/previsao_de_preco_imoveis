@@ -6,7 +6,7 @@
 ![Dash](https://img.shields.io/badge/dash-2.0+-green.svg)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
 
-<p align="center"><img src="https://i.imgur.com/7YFFP2T.gif" width="650"></p>
+<p align="center"><img src="https://i.imgur.com/5MHLtDY.gif" width="650"></p>
 
 </div>
 
