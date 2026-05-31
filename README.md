@@ -19,6 +19,7 @@
 Este projeto oferece uma **interface web elegante e responsiva** construída com Dash que utiliza **Machine Learning** para prever preços imobiliários. O sistema emprega um modelo de **Regressão Linear** treinado com dados reais do mercado imobiliário, considerando fatores como localização, proximidade de transporte público e infraestrutura local.
 
 Aplicativo Streamlit | https://previsao-de-preco-imoveis.streamlit.app/
+
 **OBS.**: caso o aplicativo esteja "dormindo"/inativo, apenas "acorde"/ative ele novamente.
 
 ### 🎯 Objetivo
