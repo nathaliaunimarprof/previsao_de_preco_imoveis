@@ -6,9 +6,7 @@
 ![Dash](https://img.shields.io/badge/dash-2.0+-green.svg)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
 
-<p align="center"><img src="https://i.imgur.com/Als6Mof.gif" width="650"></p>
-
-[🚀 Demo](#-como-usar) • [📋 Funcionalidades](#-funcionalidades) • [⚙️ Instalação](#️-instalação) • [📊 Dados](#-sobre-os-dados)
+<p align="center"><img src="https://i.imgur.com/7YFFP2T.gif" width="650"></p>
 
 </div>
 
@@ -40,7 +38,7 @@ Certifique-se de ter o Python 3.8+ instalado em seu sistema.
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/victorfxz/app-preco-imovel-previsao.git
+git clone https://github.com/nathaliaunimarprof/previsao_de_preco_imoveis.git
 cd app-preco-imovel-previsao
 ```
 
@@ -98,12 +96,6 @@ O dataset utilizado contém **414 registros** de transações imobiliárias reai
 - **HTML/CSS**: Interface e estilização
 
 ---
-
-<div align="center">
-
-**Desenvolvido com ❤️ para como uma possível ferramenta facilitadora de decisões imobiliárias.**
-
-</div>
 
 
 
